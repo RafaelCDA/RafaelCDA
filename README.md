@@ -30,6 +30,7 @@ Me chamo Rafael Cutrim de Almeida Cabral, tenho 21 anos e sou natural de Brasíl
         />
     </a>
 </p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
